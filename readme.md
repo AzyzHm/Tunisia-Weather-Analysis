@@ -1,6 +1,12 @@
-# Tunisia Weather Analysis
+# Tunisian Weather Analysis
 
-This project aims to examine Tunisian weather data covering the period from 1983 to 2023 in order to better understand the various factors influencing weather behavior.
+## Introduction:
+
+As part of our project, we will examine Tunisian weather data covering the period from 1983 to 2022 to better understand the various factors influencing weather behavior.
+
+This project encompasses the analysis of temperature, wind, and precipitation, with the ultimate goal of predicting temperature values for the coming years.
+
+> <span style="color:magenta">Big thanks to Ghofrane Saadallah for contributing to this project</span>
 
 ## Files
 
@@ -14,4 +20,4 @@ To use this project, clone the repository and open the `analyse_météo_tunisien
 
 ## License
 
-This project is licensed under the MIT License. See the [license file](LICENSE) for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
